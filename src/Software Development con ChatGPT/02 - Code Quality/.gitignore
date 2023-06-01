@@ -1,0 +1,31 @@
+# Archivos y directorios generados automáticamente
+.class
+.o
+.pyc
+.exe
+/bin/
+/build/
+/dist/
+
+# Directorios de dependencias
+node_modules/
+vendor/
+
+# Archivos de configuración de entorno
+.vscode/
+.idea/
+*.iml
+
+# Archivos de registro y salida de compilación
+logs/
+output/
+*.log
+*.out
+
+# Archivos específicos de editor de código
+/.vscode/
+/.idea/
+
+# Otros archivos y directorios personalizados a ignorar
+custom_dir/
+custom_file.txt
