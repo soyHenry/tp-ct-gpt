@@ -1,0 +1,14 @@
+body {
+    background: black;
+    color: white;
+  }
+  
+  .link{
+    text-decoration: none;
+    color: white;
+  }
+
+  .myList {
+    list-style-type: none;
+  }
+  

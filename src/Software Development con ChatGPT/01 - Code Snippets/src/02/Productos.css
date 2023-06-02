@@ -1,0 +1,14 @@
+.container {
+    background: black;
+    color: white;
+  }
+  
+ ul{
+    display: flex;
+    justify-content: flex-start;
+ } 
+
+ li{
+    width: 200px;
+    
+ }
