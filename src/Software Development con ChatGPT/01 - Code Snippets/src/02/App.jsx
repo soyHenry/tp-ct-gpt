@@ -10,7 +10,7 @@ import styles from "./App.module.css"
 const App = () => {
   return (
     <Router>
-      <nav>
+      <nav className={styles.nav} > 
         <ul className={styles.myList}>
           <li>
             <Link to="/" className={styles.link} >Inicio</Link>

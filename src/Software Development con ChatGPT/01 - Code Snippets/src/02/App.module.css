@@ -1,5 +1,6 @@
 body {
-    background: black;
+   background-color: #ffff00;
+
     color: white;
   }
   
@@ -10,5 +11,13 @@ body {
 
   .myList {
     list-style-type: none;
+    margin: 0px;
   }
   
+  .nav{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    height: 50px;
+    font-weight: bold;
+  }

@@ -1,10 +1,10 @@
 import React from 'react';
+import styles from "./Home.module.css";
 
 const Home = () => {
   return (
-    <div className="container">
-      <h1>¡Bienvenido a mi aplicación!</h1>
-      <p>Esta es la página de inicio.</p>
+    <div className={styles.container}>
+
     </div>
   );
 };
