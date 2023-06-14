@@ -1,9 +1,7 @@
-const obtenerDominioCorreo = require('../03-regex');
+const validarCorreo = require('../03-regex');
 
-test('El dominio del correo "ejemplo@dominio.com" debería ser "dominio.com"', () => {
-   expect(obtenerDominioCorreo('ejemplo@dominio.com')).toBe('dominio.com');
-});
+const regex = validarCorreo();
 
-test('El dominio del correo "usuario@gmail.com" debería ser "gmail.com"', () => {
-   expect(obtenerDominioCorreo('matu@gmail.com')).toBe('gmail.com');
+test('Debe ser un correo electrónico válido', () => {
+   expect(regex.test('ejemplo@dominio.com')).toBe(true);
 });
