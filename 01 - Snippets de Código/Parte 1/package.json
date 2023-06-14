@@ -1,0 +1,17 @@
+{
+   "name": "primera-parte",
+   "version": "1.0.0",
+   "description": "",
+   "main": "01-regex.js",
+   "directories": {
+      "test": "tests"
+   },
+   "scripts": {
+      "test": "jest"
+   },
+   "author": "",
+   "license": "ISC",
+   "dependencies": {
+      "jest": "^29.5.0"
+   }
+}
