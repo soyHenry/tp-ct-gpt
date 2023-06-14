@@ -6,7 +6,7 @@
 
 Esta homework está dividida en dos partes. En cada parte pondrás en práctica tus habilidades para que ChatGPT desarrolle el código que necesitas.
 
-**⚠️ Importante:** En cada una de las partes deberás ejecutar el comando **`npm install`**.
+**⚠️ Importante:** en cada una de las partes deberás ejecutar el comando **`npm install`**.
 
 </br>
 

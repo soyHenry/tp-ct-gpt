@@ -1,26 +1,15 @@
+# **🤖SOFTWARE DEVELOPMENT CON CHATGPT**
 
+# **🧑‍💻Quality Code**
 
+## **📄INSTRUCCIONES**
 
- ## Actividad 01 | Poca legibilidad y mantenibilidad
+En esta homework encontrarás tres funciones. Cada una no respeta buenas prácticas, nos sonlegibles y también son deficientes.
 
-Ahora vayan a preguntar a ChatGPT sobre las mejores prácticas de legibilidad y mantenibilidad en el código fuente.
+### **🎯MISIÓN**
 
-Pueden solicitar recomendaciones específicas para mejorar la estructura, los nombres de variables y las condiciones de la función.
+Tu trabajo será trabajar cada una de las funciones con ChatGPT para que cada una respete mejores prácticas y puedas entenderlas de forma más sencilla. ¡Puedes pedir que también las documente!
 
-También pueden preguntar cómo simplificar y refactorizar el código para que sea más fácil de entender y mantener en el futuro.
+Cada función será más compleja de entender que la anterior😉.
 
-
- ## Actividad 02 | Complejidad excesiva
-
-Ahora vayan a preguntar a ChatGPT sobre alternativas más eficientes para calcular la secuencia de Fibonacci.
-
-Pueden explorar estrategias de optimización y algoritmos más eficientes para reducir el tiempo de ejecución.
-
-También pueden investigar técnicas de programación dinámica o almacenamiento en caché para evitar cálculos repetidos y mejorar el rendimiento de la función.
-
- ## Actividad 03 | Rendimiento deficiente
-
- Vayan a consultar a ChatGPT sobre técnicas para optimizar el rendimiento de operaciones de suma en JavaScript.
-
- Pueden explorar alternativas como el uso del método reduce() en lugar de un bucle for.
- Pueden investigar cómo aprovechar operaciones vectorizadas o paralelizadas para mejorar la eficiencia en el procesamiento de arreglos numéricos.
+**⚠️ Importante:** en esta homework no hay test, pero puedes trabajarla con tus compañeros.
