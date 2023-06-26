@@ -4,7 +4,7 @@
 // - Después, exactamente diez dígitos numéricos.
 
 function validatePhone() {
-   let tuRegex; // Agrega tu regex
+   let tuRegex = /^\+\d{2}-\d{10}$/; // Agrega tu regex
    return tuRegex;
 }
 
