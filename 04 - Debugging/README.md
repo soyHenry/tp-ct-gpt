@@ -1,5 +1,9 @@
- ## Actividad | Encuentra el bug
+# **🤖SOFTWARE DEVELOPMENT CON CHATGPT**
 
-las 3 funciones están parcialmente bien. Con ayuda de chatGPT encuentra el error en cada una y resuelvelo 
+# **🧑‍💻Debugging**
 
-Para correrlos: npm test ó npm t 1
+## **📄INSTRUCCIONES**
+
+En esta homework trabajarás en con tres ejercicios. Cada uno de estos ejercicios ya está resuelto y también tienen testings. Tu objetivo será, mediante ChatGPT, descubrir cuál fue el error en la función, poder explicarlo y finalmente resolverlo.
+
+🎯¡Buena suerte!

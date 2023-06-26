@@ -1,6 +1,6 @@
 # **🤖SOFTWARE DEVELOPMENT CON CHATGPT**
 
-# **🧑‍💻Quality Code**
+# **🧑‍💻Code Quality**
 
 ## **📄INSTRUCCIONES**
 

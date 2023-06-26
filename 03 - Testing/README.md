@@ -1,6 +1,6 @@
 # **🤖SOFTWARE DEVELOPMENT CON CHATGPT**
 
-# **🧑‍💻Snippets de Código**
+# **🧑‍💻Testing**
 
 ## **📄INSTRUCCIONES**
 
